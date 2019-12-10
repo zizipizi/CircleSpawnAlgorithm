@@ -6,6 +6,6 @@ x = cos((360/F)*(FIndex)*R)
 y = sin((360/F)*(FIndex)*R)
 z = 0;  
   
-R = radius  
 where F = number of point in a circle  
 FIndex = index of current point  
+R = radius  
